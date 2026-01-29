@@ -1911,6 +1911,16 @@ eval("(()=>{\"use strict\";var e={211:e=>{var r=function(){function defineProper
 
 /***/ }),
 
+/***/ "(ssr)/./node_modules/next/dist/compiled/client-only/index.js":
+/*!**************************************************************!*\
+  !*** ./node_modules/next/dist/compiled/client-only/index.js ***!
+  \**************************************************************/
+/***/ (() => {
+
+
+
+/***/ }),
+
 /***/ "(ssr)/./node_modules/next/dist/compiled/css.escape/css.escape.js":
 /*!******************************************************************!*\
   !*** ./node_modules/next/dist/compiled/css.escape/css.escape.js ***!
@@ -2070,16 +2080,6 @@ eval("\nmodule.exports = __webpack_require__(/*! ../../module.compiled */ \"(ssr
 
 "use strict";
 eval("\nmodule.exports = __webpack_require__(/*! ../../module.compiled */ \"(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/module.compiled.js?b374\").vendored[\"react-ssr\"].React;\n\n//# sourceMappingURL=react.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L3NlcnZlci9mdXR1cmUvcm91dGUtbW9kdWxlcy9hcHAtcGFnZS92ZW5kb3JlZC9zc3IvcmVhY3QuanMiLCJtYXBwaW5ncyI6IkFBQWE7QUFDYiw0TEFBNkU7O0FBRTdFIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vcGFzdGViaW4tbGl0ZS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3Qvc2VydmVyL2Z1dHVyZS9yb3V0ZS1tb2R1bGVzL2FwcC1wYWdlL3ZlbmRvcmVkL3Nzci9yZWFjdC5qcz9kN2MyIl0sInNvdXJjZXNDb250ZW50IjpbIlwidXNlIHN0cmljdFwiO1xubW9kdWxlLmV4cG9ydHMgPSByZXF1aXJlKFwiLi4vLi4vbW9kdWxlLmNvbXBpbGVkXCIpLnZlbmRvcmVkW1wicmVhY3Qtc3NyXCJdLlJlYWN0O1xuXG4vLyMgc291cmNlTWFwcGluZ1VSTD1yZWFjdC5qcy5tYXAiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react.js\n");
-
-/***/ }),
-
-/***/ "(ssr)/./node_modules/next/navigation.js":
-/*!*****************************************!*\
-  !*** ./node_modules/next/navigation.js ***!
-  \*****************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! ./dist/client/components/navigation */ \"(ssr)/./node_modules/next/dist/client/components/navigation.js\")\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9uYXZpZ2F0aW9uLmpzIiwibWFwcGluZ3MiOiJBQUFBLGlKQUErRCIsInNvdXJjZXMiOlsid2VicGFjazovL3Bhc3RlYmluLWxpdGUvLi9ub2RlX21vZHVsZXMvbmV4dC9uYXZpZ2F0aW9uLmpzPzQyMzIiXSwic291cmNlc0NvbnRlbnQiOlsibW9kdWxlLmV4cG9ydHMgPSByZXF1aXJlKCcuL2Rpc3QvY2xpZW50L2NvbXBvbmVudHMvbmF2aWdhdGlvbicpXG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/navigation.js\n");
 
 /***/ })
 
